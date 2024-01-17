@@ -23,3 +23,5 @@ Feedback and Suggestions:
 I'm open to feedback and suggestions for improvements. If you encounter any issues or have ideas on how to make the widget better, feel free to comment below or send me a message.
 
 Hope you find this tool as helpful as I do. Happy raiding, and may your loot be ever valuable!
+
+This project is licensed under the MIT License - see the LICENSE file for details
